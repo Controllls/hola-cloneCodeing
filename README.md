@@ -1,7 +1,13 @@
 # hola-cloneCodeing
 
 # 설명
-react 강의를 듣고 hola사이트와 비슷한 작품읆 만들기위한 클론코딩 
+react 강의를 듣고 적용을위한 hola사이트 클론코딩
+
+# 강의 내용
+Landing, Hooks, useState
+
+# 추가한 기능
+검색 기능, 스크롤시 자동 더보기
 
 # hola사이트
 <img width="1245" alt="스크린샷 2023-04-14 오후 11 57 32" src="https://user-images.githubusercontent.com/53941701/232079880-6b54dcb2-9e29-4d41-aa0b-ee6c63cfab9a.png">
