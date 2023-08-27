@@ -1,5 +1,3 @@
-# hola-cloneCodeing
-
 # 설명
 react 강의를 듣고 적용을위한 hola사이트 클론코딩
 
